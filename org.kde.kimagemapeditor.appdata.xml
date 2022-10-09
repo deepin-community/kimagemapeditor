@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<component type="desktop">
+  <id>org.kde.kimagemapeditor.desktop</id>
+  <metadata_license>FSFAP</metadata_license>
+  <project_license>GPL-2.0+</project_license>
+  <name>KImageMapEditor</name>
+  <name xml:lang="ca">KImageMapEditor</name>
+  <name xml:lang="ca-valencia">KImageMapEditor</name>
+  <name xml:lang="cs">KImageMapEditor</name>
+  <name xml:lang="da">KImageMapEditor</name>
+  <name xml:lang="de">KImageMapEditor</name>
+  <name xml:lang="el">KImageMapEditor</name>
+  <name xml:lang="en-GB">KImageMapEditor</name>
+  <name xml:lang="es">KImageMapEditor</name>
+  <name xml:lang="et">KImageMapEditor</name>
+  <name xml:lang="eu">KImageMapEditor</name>
+  <name xml:lang="fi">KImageMapEditor</name>
+  <name xml:lang="fr">KImageMapEditor</name>
+  <name xml:lang="gl">KImageMapEditor</name>
+  <name xml:lang="hi">के-इमेज-मैप-एडिटर</name>
+  <name xml:lang="id">KCitraMapEditor</name>
+  <name xml:lang="it">KImageMapEditor</name>
+  <name xml:lang="ko">KImageMapEditor</name>
+  <name xml:lang="nl">KImageMapEditor</name>
+  <name xml:lang="nn">KImageMapEditor</name>
+  <name xml:lang="pl">KImageMapEditor</name>
+  <name xml:lang="pt">KImageMapEditor</name>
+  <name xml:lang="pt-BR">KImageMapEditor</name>
+  <name xml:lang="ru">KImageMapEditor</name>
+  <name xml:lang="sk">KImageMapEditor</name>
+  <name xml:lang="sl">KImageMapEditor</name>
+  <name xml:lang="sv">Kimagemapeditor</name>
+  <name xml:lang="uk">KImageMapEditor</name>
+  <name xml:lang="x-test">xxKImageMapEditorxx</name>
+  <name xml:lang="zh-CN">KImageMapEditor</name>
+  <name xml:lang="zh-TW">KImageMapEditor</name>
+  <summary>HTML Image Map Editor</summary>
+  <summary xml:lang="ca">Un editor de correspondències a imatges amb HTML</summary>
+  <summary xml:lang="ca-valencia">Un editor de correspondències a imatges amb HTML</summary>
+  <summary xml:lang="cs">Editor HTML map</summary>
+  <summary xml:lang="da">HTML-billedkortredigering</summary>
+  <summary xml:lang="de">Editor für HTML-Bildkarten (Imagemaps)</summary>
+  <summary xml:lang="el">Επεξεργαστής χάρτη εικόνας HTML</summary>
+  <summary xml:lang="en-GB">HTML Image Map Editor</summary>
+  <summary xml:lang="es">Editor de mapas de imágenes en HTML</summary>
+  <summary xml:lang="et">Hüperpildiredaktor</summary>
+  <summary xml:lang="eu">HTML irudi-mapa editorea</summary>
+  <summary xml:lang="fi">HTML-kuvamuokkain</summary>
+  <summary xml:lang="fr">Éditeur de carte d'images HTML</summary>
+  <summary xml:lang="gl">Editor de mapas de imaxes HTML</summary>
+  <summary xml:lang="hi">एचटीएमएल इमेज मैप संपादक</summary>
+  <summary xml:lang="id">Pengedit Peta Citra HTML</summary>
+  <summary xml:lang="it">Editor di mappe immagine HTML</summary>
+  <summary xml:lang="ko">HTML 이미지 맵 편집기</summary>
+  <summary xml:lang="nl">HTML bewerker van afbeeldingskaarten</summary>
+  <summary xml:lang="nn">HTML-biletkartredigering</summary>
+  <summary xml:lang="pl">Edytor mapy obrazu HTML</summary>
+  <summary xml:lang="pt">Editor de Mapas de Imagens HTML</summary>
+  <summary xml:lang="pt-BR">Editor de mapeamento de imagem HTML</summary>
+  <summary xml:lang="ru">Редактор табличных изображений HTML</summary>
+  <summary xml:lang="sk">Editor HTML mapy obrázkov</summary>
+  <summary xml:lang="sl">Urejevalnik slikovnih zemljevidov za HTML</summary>
+  <summary xml:lang="sv">Redigering av HTML-bildkartor</summary>
+  <summary xml:lang="uk">Редактор карт зображень HTML</summary>
+  <summary xml:lang="x-test">xxHTML Image Map Editorxx</summary>
+  <summary xml:lang="zh-CN">HTML 图像映射编辑器</summary>
+  <summary xml:lang="zh-TW">HTML 影像地圖編輯器</summary>
+  <description>
+    <p>KImageMapEditor is an editor of image maps embedded inside HTML files,
+    based on the &lt;map&gt; tag.</p>
+    <p xml:lang="ca">El KImageMapEditor és un editor de correspondències a imatges incrustades dins de fitxers HTML, basat en l'etiqueta &lt;map&gt;.</p>
+    <p xml:lang="ca-valencia">El KImageMapEditor és un editor de correspondències a imatges incrustades dins de fitxers HTML, basat en l'etiqueta &lt;map&gt;.</p>
+    <p xml:lang="da">KImageMapEditor er en editor til billedkort som er indlejret i HTML-filer, baseret på &lt;map&gt;-opmærkning.</p>
+    <p xml:lang="de">KImageMapEditor ist ein Editor für Bildkarten, die in HTML eingebettet sind.  </p>
+    <p xml:lang="el">Το KImageMapEditor είναι επεξεργαστής εικόνων χαρτών ενσωματωμένος μέσα σε αρχεία HTML, με βάση την ετικέτα &lt;map&gt;.</p>
+    <p xml:lang="en-GB">KImageMapEditor is an editor of image maps embedded inside HTML files, based on the &lt;map&gt; tag.</p>
+    <p xml:lang="es">KImageMapEditor es un editor de mapas de imágenes integradas en el interior de archivos HTML que usan la etiqueta &lt;map&gt;.</p>
+    <p xml:lang="et">KImageMapEditor on HTML-failidesse põimitud hüperpiltide redaktor.</p>
+    <p xml:lang="eu">KImageMapEditor HTML fitxategien barruan txertatutako irudi-mapen editore bat da, &lt;map&gt; etiketa du jomuga.</p>
+    <p xml:lang="fi">KImageMapEditor on HTML-tiedostoihin upotettujen &lt;map&gt;-tunnisteeseen perustuvien kuvakarttojen muokkain.</p>
+    <p xml:lang="fr">KImageMapEditor est un éditeur de cartes d'images intégrées au sein de fichiers HTML, faisant appel à la balise &lt;map&gt;.</p>
+    <p xml:lang="gl">KImageMapEditor é un editor de mapas de imaxe incrustados dentro de ficheiros HTML, baseado na etiqueta &lt;map&gt;.</p>
+    <p xml:lang="hi">के-इमेज-मैप-एडिटर &lt;मानचित्र&gt; टैग के आधार पर एचटीएमएल फ़ाइलों के अंदर सन्निहित छवि मानचित्रों का एक संपादक है।</p>
+    <p xml:lang="id">KCitraMapEditor adalah editor peta citra yang disematkan dalam file HTML, berdasarkan pada tag &lt;map&gt;.</p>
+    <p xml:lang="it">KImageMapEditor è un editor di mappe immagine incorporate all'interno dei file HTML e basate sul tag &lt;map&gt;.</p>
+    <p xml:lang="ko">KImageMapEditor는 HTML 파일의 &lt;map&gt; 태그를 기반으로 한 이미지 맵 편집기입니다.</p>
+    <p xml:lang="nl">KImageMapEditor is een bewerker van afbeeldingskaarten ingebed in HTML-bestanden, gebaseerd op de tag &lt;map&gt;.</p>
+    <p xml:lang="nn">KImageMapEditor er eit redigeringsprogram for biletkart (&lt;map&gt;-elementet) i HTML-filer.</p>
+    <p xml:lang="pl">KImageMapEditor jest edytorem map obrazów osadzonych wewnątrz plików HTML i opartym na znaczniku &lt;map&gt;.</p>
+    <p xml:lang="pt">O KImageMapEditor é um editor de mapas de imagens incorporados dentro dos ficheiros HTML, baseado na marca &lt;map&gt;.</p>
+    <p xml:lang="pt-BR">KImageMapEditor é um editor de mapas de imagens incorporado dentro de arquivos HTML, com base na tag &lt;map&gt;.</p>
+    <p xml:lang="ru">KImageMapEditor — редактор разметки HTML-карт изображений, основанных на использовании тега &lt;map&gt;.</p>
+    <p xml:lang="sk">KImageMapEditor je editor obrazových máp vložených do HTML súborov, založený na tagu &lt;map&gt;.</p>
+    <p xml:lang="sl">KImageMapEditor je urejevalnik slikovnih zemljevidov, ki so v obliki oznak &lt;map&gt; vgrajeni znotraj datotek HTML.</p>
+    <p xml:lang="sv">Kimagemapeditor är en editor av bildkartor inbäddade i HTML-filer, baserade på taggen &lt;map&gt;.</p>
+    <p xml:lang="uk">KImageMapEditor — редактор карт зображень, які вбудовуються до файлів HTML і працюють на основі теґу &lt;map&gt;.</p>
+    <p xml:lang="x-test">xxKImageMapEditor is an editor of image maps embedded inside HTML files, based on the &lt;map&gt; tag.xx</p>
+    <p xml:lang="zh-CN">KImageMapEditor 是一个编辑 HTML 文件中的映射图 (image map) 的编辑器，它们用 &lt;map&gt; 标签表示。</p>
+    <p xml:lang="zh-TW">KImageMapEditor 是個可以編輯嵌入在 HTML 檔案中影像地圖的編輯器，基於 &lt;map&gt; 標籤。</p>
+  </description>
+  <screenshots>
+    <screenshot type="default">
+      <caption>Editing HTML image map in KImageMapEditor</caption>
+      <caption xml:lang="ca">Editant una correspondència a imatge amb HTML al KImageMapEditor</caption>
+      <caption xml:lang="ca-valencia">Editant una correspondència a imatge amb HTML al KImageMapEditor</caption>
+      <caption xml:lang="cs">Úprava obrázkových map HTML pomocí KImageMapEditor</caption>
+      <caption xml:lang="da">Redigering af HTML-billedkort i KImageMapEditor</caption>
+      <caption xml:lang="de">Bearbeitung von HTML-Bildkarten (Imagemaps) in KImageMapEditor</caption>
+      <caption xml:lang="el">Επεξεργασία χάρτη εικόνας HTML στο KImageMapEditor</caption>
+      <caption xml:lang="en-GB">Editing HTML image map in KImageMapEditor</caption>
+      <caption xml:lang="es">Editando un mapa de imagen HTML en KImageMapEditor</caption>
+      <caption xml:lang="et">Hüperpildi redigeerimine KImageMapEditoriga</caption>
+      <caption xml:lang="eu">KImageMapEditor erabiliz HTML irudi-mapa editatzea</caption>
+      <caption xml:lang="fi">HTML-kuvakartan muokkaus KImageMapEditorissa</caption>
+      <caption xml:lang="fr">Édition d'une carte d'image HTML dans KImageMapEditor</caption>
+      <caption xml:lang="gl">Editando un mapa de imaxe de HTML en KImageMapEditor</caption>
+      <caption xml:lang="hi">के-इमेज-मैप-एडिटर में एचटीएमएल छवि मानचित्र का संपादन</caption>
+      <caption xml:lang="id">Mengedit peta citra HTML di KCitraMapEditor</caption>
+      <caption xml:lang="it">Modifica di una mappa immagine HTML in KImageMapEditor</caption>
+      <caption xml:lang="ko">KImageMapEditor로 HTML 이미지 맵 편집</caption>
+      <caption xml:lang="nl">HTML imagemap bewerken in KImageMapEditor</caption>
+      <caption xml:lang="nn">Redigering av HTML-biletkart med KImageMapEditor</caption>
+      <caption xml:lang="pl">Edytowanie mapy obrazu HTML w KImageMapEditor</caption>
+      <caption xml:lang="pt">Edição de um mapa de imagens HTML no KImageMapEditor</caption>
+      <caption xml:lang="pt-BR">Editando mapeamento de imagem HTML no KImageMapEditor</caption>
+      <caption xml:lang="ru">Редактирование HTML-разметки карты изображения в KImageMapEditor</caption>
+      <caption xml:lang="sl">Urejaj slikovne zemljevide HTML z KImageMapEditor</caption>
+      <caption xml:lang="sv">Redigering av HTML-bildkarta i KImagemapeditor</caption>
+      <caption xml:lang="uk">Редагування HTML-карти зображення у KImageMapEditor</caption>
+      <caption xml:lang="x-test">xxEditing HTML image map in KImageMapEditorxx</caption>
+      <caption xml:lang="zh-TW">在 KImageMapEditor 中編輯 HTML 影像地圖</caption>
+      <image width="1367" height="680">https://www.kde.org/images/screenshots/kimagemapeditor.png</image>
+    </screenshot>
+  </screenshots>
+  <url type="homepage">https://www.kde.org/applications/development/kimagemapeditor/</url>
+  <url type="bugtracker">https://bugs.kde.org/enter_bug.cgi?format=guided&amp;product=kimagemapeditor</url>
+  <url type="help">https://docs.kde.org/?application=kimagemapeditor</url>
+  <project_group>KDE</project_group>
+  <provides>
+    <binary>kimagemapeditor</binary>
+  </provides>
+  <releases>
+    <release version="21.08.0" date="2021-08-12"/>
+    <release version="21.04.3" date="2021-07-08"/>
+    <release version="21.04.2" date="2021-06-10"/>
+    <release version="21.04.1" date="2021-05-13"/>
+  </releases>
+</component>

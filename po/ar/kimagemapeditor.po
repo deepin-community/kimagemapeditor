@@ -1,0 +1,1042 @@
+# translation of kimagemapeditor.po to
+# Copyright (C) YEAR This_file_is_part_of_KDE
+# This file is distributed under the same license as the PACKAGE package.
+# Youssef Chahibi <chahibi@gmail.com>, 2007.
+msgid ""
+msgstr ""
+"Project-Id-Version: kimagemapeditor\n"
+"Report-Msgid-Bugs-To: https://bugs.kde.org\n"
+"POT-Creation-Date: 2021-06-22 00:15+0000\n"
+"PO-Revision-Date: 2007-10-14 16:02+0000\n"
+"Last-Translator: Youssef Chahibi <chahibi@gmail.com>\n"
+"Language-Team: <en@li.org>\n"
+"Language: ar\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=6; plural=n==0 ? 0 : n==1 ? 1 : n==2 ? 2 : n%100>=3 "
+"&& n%100<=10 ? 3 : n%100>=11 && n%100<=99 ? 4 : 5;\n"
+"X-Generator: KBabel 1.11.4\n"
+
+#, fuzzy, kde-format
+msgctxt "NAME OF TRANSLATORS"
+msgid "Your names"
+msgstr "Mohamed SAAD محمد سعد"
+
+#, fuzzy, kde-format
+msgctxt "EMAIL OF TRANSLATORS"
+msgid "Your emails"
+msgstr "metehyi@free.fr"
+
+#: arealistview.cpp:43 kimagemapeditor.cpp:98 kimagemapeditor.cpp:131
+#, fuzzy, kde-format
+msgid "Areas"
+msgstr "مساحات"
+
+#: arealistview.cpp:44 kimedialogs.cpp:594
+#, fuzzy, kde-format
+msgid "Preview"
+msgstr "معاينة"
+
+#: imagemapchoosedialog.cpp:46
+#, fuzzy, kde-format
+msgid "Choose Map & Image to Edit"
+msgstr "اختر الخريطة صورة إلى تحرير"
+
+#: imagemapchoosedialog.cpp:55
+#, fuzzy, kde-format
+msgid "Select an image and/or a map that you want to edit"
+msgstr "انتقِ صورة و أو a خريطة إلى حرّر"
+
+#: imagemapchoosedialog.cpp:67
+#, fuzzy, kde-format
+msgid "&Maps"
+msgstr "خرائط"
+
+#: imagemapchoosedialog.cpp:79
+#, fuzzy, kde-format
+msgid "Image Preview"
+msgstr "معاينة الصورة"
+
+#: imagemapchoosedialog.cpp:104
+#, fuzzy, kde-format
+msgid "No maps found"
+msgstr "لا موجود"
+
+#: imagemapchoosedialog.cpp:140
+#, fuzzy, kde-format
+msgid "No images found"
+msgstr "لم يعثر على أيّة صورة"
+
+#: imagemapchoosedialog.cpp:153
+#, fuzzy, kde-format
+msgid "&Images"
+msgstr "صور"
+
+#: imagemapchoosedialog.cpp:162
+#, fuzzy, kde-format
+msgid "Path"
+msgstr "المسار"
+
+#: imageslistview.cpp:59 kimagemapeditor.cpp:100 kimagemapeditor.cpp:133
+#, fuzzy, kde-format
+msgid "Images"
+msgstr "صور"
+
+#: imageslistview.cpp:60
+#, kde-format
+msgid "Usemap"
+msgstr ""
+
+#: kimagemapeditor.cpp:99 kimagemapeditor.cpp:132 mapslistview.cpp:37
+#, fuzzy, kde-format
+msgid "Maps"
+msgstr "خرائط"
+
+#: kimagemapeditor.cpp:250 mapslistview.cpp:166
+#, fuzzy, kde-format
+msgid "unnamed"
+msgstr "غير مسمى"
+
+#: kimagemapeditor.cpp:446
+#, fuzzy, kde-format
+msgid ""
+"<h3>Open File</h3>Click this to <em>open</em> a new picture or HTML file."
+msgstr "<h3> افتح ملف</h3> نقر إلى<em> فتح</em> a جديد صورة أو HTML ملفّ."
+
+#: kimagemapeditor.cpp:447
+#, fuzzy, kde-format
+msgid "Open new picture or HTML file"
+msgstr "افتح جديد صورة أو HTML ملفّ"
+
+#: kimagemapeditor.cpp:454
+#, fuzzy, kde-format
+msgid ""
+"<h3>Save File</h3>Click this to <em>save</em> the changes to the HTML file."
+msgstr "<h3> احفظ ملف</h3> نقر إلى<em> حفظ</em> إلى HTML ملفّ."
+
+#: kimagemapeditor.cpp:455
+#, fuzzy, kde-format
+msgid "Save HTML file"
+msgstr "احفظ HTML ملفّ"
+
+#: kimagemapeditor.cpp:463
+#, fuzzy, kde-format
+msgid ""
+"<h3>Close File</h3>Click this to <em>close</em> the currently open HTML file."
+msgstr "<h3> إغلاق ملف</h3> نقر إلى<em> اغلق</em> فتح HTML ملفّ."
+
+#: kimagemapeditor.cpp:464
+#, fuzzy, kde-format
+msgid "Close HTML file"
+msgstr "إغلاق HTML ملفّ"
+
+#: kimagemapeditor.cpp:468
+#, fuzzy, kde-format
+msgid "<h3>Copy</h3>Click this to <em>copy</em> the selected area."
+msgstr "<h3> نسخ</h3> نقر إلى<em> نسخ</em> مُنتقى منطقة."
+
+#: kimagemapeditor.cpp:474
+#, fuzzy, kde-format
+msgid "<h3>Cut</h3>Click this to <em>cut</em> the selected area."
+msgstr "<h3> قص</h3> نقر إلى<em> قص</em> مُنتقى منطقة."
+
+#: kimagemapeditor.cpp:480
+#, fuzzy, kde-format
+msgid "<h3>Paste</h3>Click this to <em>paste</em> the copied area."
+msgstr "<h3> لصق</h3> نقر إلى<em> الصق</em> منطقة."
+
+#: kimagemapeditor.cpp:487 kimagemapeditor.cpp:2695
+#, fuzzy, kde-format
+msgid "&Delete"
+msgstr "ا&حذف"
+
+#: kimagemapeditor.cpp:491
+#, fuzzy, kde-format
+msgid "<h3>Delete</h3>Click this to <em>delete</em> the selected area."
+msgstr "<h3> احذف</h3> نقر إلى<em> حذف</em> مُنتقى منطقة."
+
+#: kimagemapeditor.cpp:501
+#, fuzzy, kde-format
+msgid "Pr&operties"
+msgstr "خصائص"
+
+#: kimagemapeditor.cpp:512
+#, fuzzy, kde-format
+msgid "Zoom"
+msgstr "تكبير"
+
+#: kimagemapeditor.cpp:515
+#, fuzzy, kde-format
+msgid "<h3>Zoom</h3>Choose the desired zoom level."
+msgstr "<h3> تكبير</h3> اختر كبِّر :: تكبير مستوى."
+
+#: kimagemapeditor.cpp:518
+#, fuzzy, kde-format
+msgid "25%"
+msgstr "25%"
+
+#: kimagemapeditor.cpp:519
+#, fuzzy, kde-format
+msgid "50%"
+msgstr "50%"
+
+#: kimagemapeditor.cpp:520
+#, fuzzy, kde-format
+msgid "100%"
+msgstr "100%"
+
+#: kimagemapeditor.cpp:521
+#, fuzzy, kde-format
+msgid "150%"
+msgstr "150%"
+
+#: kimagemapeditor.cpp:522
+#, fuzzy, kde-format
+msgid "200%"
+msgstr "200%"
+
+#: kimagemapeditor.cpp:523
+#, kde-format
+msgid "250%"
+msgstr ""
+
+#: kimagemapeditor.cpp:524
+#, fuzzy, kde-format
+msgid "300%"
+msgstr "300%"
+
+#: kimagemapeditor.cpp:525
+#, fuzzy, kde-format
+msgid "500%"
+msgstr "500%"
+
+#: kimagemapeditor.cpp:526
+#, kde-format
+msgid "750%"
+msgstr ""
+
+#: kimagemapeditor.cpp:527
+#, fuzzy, kde-format
+msgid "1000%"
+msgstr "1000%"
+
+#: kimagemapeditor.cpp:532
+#, fuzzy, kde-format
+msgid "Highlight Areas"
+msgstr "إبراز مساحات"
+
+#: kimagemapeditor.cpp:538
+#, fuzzy, kde-format
+msgid "Show Alt Tag"
+msgstr "اعرض Alt الشّارة"
+
+#: kimagemapeditor.cpp:541
+#, fuzzy, kde-format
+msgid "Map &Name..."
+msgstr "الخريطة الاسم."
+
+#: kimagemapeditor.cpp:545
+#, fuzzy, kde-format
+msgid "Ne&w Map..."
+msgstr "جديد الخريطة."
+
+#: kimagemapeditor.cpp:548
+#, fuzzy, kde-format
+msgid "Create a new map"
+msgstr "إنشاء a جديد خريطة"
+
+#: kimagemapeditor.cpp:550
+#, fuzzy, kde-format
+msgid "D&elete Map"
+msgstr "احذف الخريطة"
+
+#: kimagemapeditor.cpp:553
+#, fuzzy, kde-format
+msgid "Delete the current active map"
+msgstr "احذف الحالي نشط خريطة"
+
+#: kimagemapeditor.cpp:555
+#, fuzzy, kde-format
+msgid "Edit &Default Area..."
+msgstr "تحرير افتراضي مساحة."
+
+#: kimagemapeditor.cpp:558
+#, fuzzy, kde-format
+msgid "Edit the default area of the current active map"
+msgstr "تحرير افتراضي منطقة من الحالي نشط خريطة"
+
+#: kimagemapeditor.cpp:560
+#, fuzzy, kde-format
+msgid "&Preview"
+msgstr "&معاينة"
+
+#: kimagemapeditor.cpp:563
+#, fuzzy, kde-format
+msgid "Show a preview"
+msgstr "اعرض a معاينة"
+
+#. i18n: ectx: Menu (images)
+#: kimagemapeditor.cpp:566 kimagemapeditorpartui.rc:61
+#, fuzzy, kde-format
+msgid "&Image"
+msgstr "ال&صورة"
+
+#: kimagemapeditor.cpp:568
+#, fuzzy, kde-format
+msgid "Add Image..."
+msgstr "إضافة صورة."
+
+#: kimagemapeditor.cpp:571
+#, fuzzy, kde-format
+msgid "Add a new image"
+msgstr "إضافة a جديد صورة"
+
+#: kimagemapeditor.cpp:573
+#, fuzzy, kde-format
+msgid "Remove Image"
+msgstr "احذف صورة"
+
+#: kimagemapeditor.cpp:576
+#, fuzzy, kde-format
+msgid "Remove the current visible image"
+msgstr "احذف الحالي مرئي صورة"
+
+#: kimagemapeditor.cpp:578
+#, fuzzy, kde-format
+msgid "Edit Usemap..."
+msgstr "تحرير."
+
+#: kimagemapeditor.cpp:581
+#, fuzzy, kde-format
+msgid "Edit the usemap tag of the current visible image"
+msgstr "تحرير بطاقة من الحالي مرئي صورة"
+
+#: kimagemapeditor.cpp:583
+#, fuzzy, kde-format
+msgid "Show &HTML"
+msgstr "اعرض &HTML"
+
+#: kimagemapeditor.cpp:590
+#, fuzzy, kde-format
+msgid "&Selection"
+msgstr "ال&تحديد"
+
+#: kimagemapeditor.cpp:594
+#, fuzzy, kde-format
+msgid "<h3>Selection</h3>Click this to select areas."
+msgstr "<h3> التحديد</h3> نقر إلى تحديد."
+
+#: kimagemapeditor.cpp:600
+#, fuzzy, kde-format
+msgid "&Circle"
+msgstr "دائرة"
+
+#: kimagemapeditor.cpp:605
+#, fuzzy, kde-format
+msgid "<h3>Circle</h3>Click this to start drawing a circle."
+msgstr "<h3> دائرة</h3> نقر إلى تشغيل a."
+
+#: kimagemapeditor.cpp:610
+#, fuzzy, kde-format
+msgid "&Rectangle"
+msgstr "&شكل رباعي"
+
+#: kimagemapeditor.cpp:614
+#, fuzzy, kde-format
+msgid "<h3>Rectangle</h3>Click this to start drawing a rectangle."
+msgstr "<h3> مستطيل</h3> نقر إلى تشغيل a."
+
+#: kimagemapeditor.cpp:619
+#, fuzzy, kde-format
+msgid "&Polygon"
+msgstr "مضلّع"
+
+#: kimagemapeditor.cpp:623
+#, fuzzy, kde-format
+msgid "<h3>Polygon</h3>Click this to start drawing a polygon."
+msgstr "<h3> مضلّع</h3> نقر إلى تشغيل a."
+
+#: kimagemapeditor.cpp:628
+#, fuzzy, kde-format
+msgid "&Freehand Polygon"
+msgstr "رسم يدوي مضلّع"
+
+#: kimagemapeditor.cpp:632
+#, fuzzy, kde-format
+msgid "<h3>Freehandpolygon</h3>Click this to start drawing a freehand polygon."
+msgstr "<h3></h3> نقر إلى تشغيل a."
+
+#: kimagemapeditor.cpp:637
+#, fuzzy, kde-format
+msgid "&Add Point"
+msgstr "إضافة نقطة"
+
+#: kimagemapeditor.cpp:641
+#, fuzzy, kde-format
+msgid "<h3>Add Point</h3>Click this to add points to a polygon."
+msgstr "<h3> إضافة نقطة</h3> نقر إلى اضف نقطة إلى a."
+
+#: kimagemapeditor.cpp:646
+#, fuzzy, kde-format
+msgid "&Remove Point"
+msgstr "احذف نقطة"
+
+#: kimagemapeditor.cpp:651
+#, fuzzy, kde-format
+msgid "<h3>Remove Point</h3>Click this to remove points from a polygon."
+msgstr "<h3> احذف نقطة</h3> نقر إلى أزِل نقطة من a."
+
+#: kimagemapeditor.cpp:655
+#, fuzzy, kde-format
+msgid "Cancel Drawing"
+msgstr "إلغاء رسم"
+
+#: kimagemapeditor.cpp:660
+#, fuzzy, kde-format
+msgid "Move Left"
+msgstr "تحرك لليسار"
+
+#: kimagemapeditor.cpp:666
+#, fuzzy, kde-format
+msgid "Move Right"
+msgstr "تحرك لليمين"
+
+#: kimagemapeditor.cpp:671
+#, fuzzy, kde-format
+msgid "Move Up"
+msgstr "تحريك للأعلى"
+
+#: kimagemapeditor.cpp:676
+#, fuzzy, kde-format
+msgid "Move Down"
+msgstr "تحريك للأسفل"
+
+#: kimagemapeditor.cpp:681
+#, fuzzy, kde-format
+msgid "Increase Width"
+msgstr "زيادة العرض"
+
+#: kimagemapeditor.cpp:686
+#, fuzzy, kde-format
+msgid "Decrease Width"
+msgstr "خفض العرض"
+
+#: kimagemapeditor.cpp:691
+#, fuzzy, kde-format
+msgid "Increase Height"
+msgstr "زيادة الارتفاع"
+
+#: kimagemapeditor.cpp:696
+#, fuzzy, kde-format
+msgid "Decrease Height"
+msgstr "خفض الارتفاع"
+
+#: kimagemapeditor.cpp:701
+#, fuzzy, kde-format
+msgid "Bring to Front"
+msgstr "إحضار إلى المقدمة"
+
+#: kimagemapeditor.cpp:705
+#, fuzzy, kde-format
+msgid "Send to Back"
+msgstr "إرسال إلى الخلف"
+
+#: kimagemapeditor.cpp:709
+#, fuzzy, kde-format
+msgid "Bring Forward One"
+msgstr "أحضر مرر واحد"
+
+#: kimagemapeditor.cpp:712
+#, fuzzy, kde-format
+msgid "Send Back One"
+msgstr "أرسِل الخلف واحد"
+
+#: kimagemapeditor.cpp:722
+#, fuzzy, kde-format
+msgid "Configure KImageMapEditor..."
+msgstr "اضبط KImageMapEditor."
+
+#: kimagemapeditor.cpp:731
+#, fuzzy, kde-format
+msgid "Show Area List"
+msgstr "اعرض مساحة قائمة"
+
+#: kimagemapeditor.cpp:736
+#, fuzzy, kde-format
+msgid "Show Map List"
+msgstr "اعرض الخريطة قائمة"
+
+#: kimagemapeditor.cpp:740
+#, fuzzy, kde-format
+msgid "Show Image List"
+msgstr "اعرض صورة قائمة"
+
+#. i18n(" Cursor")+" : x: 0 ,y: 0",STATUS_CURSOR);
+#. i18n(" Selection")+" : - ",STATUS_SELECTION);
+#: kimagemapeditor.cpp:755
+#, fuzzy, kde-format
+msgid " Selection: -  Cursor: x: 0, y: 0 "
+msgstr "التحديد المؤشر x ن 0 "
+
+#: kimagemapeditor.cpp:839
+#, fuzzy, kde-format
+msgid " Cursor: x: %1, y: %2 "
+msgstr "المؤشر x ن 2 "
+
+#: kimagemapeditor.cpp:847 kimagemapeditor.cpp:860
+#, fuzzy, kde-format
+msgid " Selection: x: %1, y: %2, w: %3, h: %4 "
+msgstr "التحديد x ن w h 4 "
+
+#: kimagemapeditor.cpp:852
+#, fuzzy, kde-format
+msgid " Selection: - "
+msgstr "التحديد "
+
+#: kimagemapeditor.cpp:905
+#, fuzzy, kde-format
+msgid "Drop an image or HTML file"
+msgstr "إسقاط صورة أو HTML ملفّ"
+
+#: kimagemapeditor.cpp:1554
+#, fuzzy, kde-format
+msgid "Enter Map Name"
+msgstr "إدخال الخريطة الاسم"
+
+#: kimagemapeditor.cpp:1554
+#, fuzzy, kde-format
+msgid "Enter the name of the map:"
+msgstr "إدخال الاسم من خريطة:"
+
+#: kimagemapeditor.cpp:1559
+#, fuzzy, kde-format
+msgid "The name <em>%1</em> already exists."
+msgstr "الـ الاسم<em></em> موجود."
+
+#: kimagemapeditor.cpp:1571
+#, fuzzy, kde-format
+msgid "HTML Code of Map"
+msgstr "HTML الرّمز من الخريطة"
+
+#: kimagemapeditor.cpp:1621
+#, fuzzy, kde-format
+msgid "Choose File to Open"
+msgstr "اختر ملف إلى افتح"
+
+#: kimagemapeditor.cpp:1622 kimeshell.cpp:207
+#, fuzzy, kde-format
+msgid ""
+"Web File (*.png *.jpg *.jpeg *.gif *.htm *.html);;Images (*.png *.jpg *.jpeg "
+"*.gif *.bmp *.xbm *.xpm *.pnm *.mng);;HTML Files (*.htm *.html);;All Files "
+"(*)"
+msgstr ""
+"HTML ويب ملف n صور n HTML HTML ملفات n PNG صور n JPEG صور n GIF صور n الكل "
+"ملفات"
+
+#: kimagemapeditor.cpp:1660
+#, kde-format
+msgid "HTML File (*.htm *.html);;Text File (*.txt);;All Files (*)"
+msgstr ""
+
+#: kimagemapeditor.cpp:1680
+#, fuzzy, kde-format
+msgid "<qt>The file <b>%1</b> does not exist.</qt>"
+msgstr "<qt> الـ ملفّ<b></b> ليس</qt>"
+
+#: kimagemapeditor.cpp:1681
+#, fuzzy, kde-format
+msgid "File Does Not Exist"
+msgstr "ملف يعمل لا موجود"
+
+#: kimagemapeditor.cpp:2378
+#, fuzzy, kde-format
+msgid ""
+"<qt>The file <i>%1</i> could not be saved, because you do not have the "
+"required write permissions.</qt>"
+msgstr "<qt> الـ ملفّ<i></i> ليس ليس مطلوب كتابة الصلاحيات</qt>"
+
+#: kimagemapeditor.cpp:2693
+#, fuzzy, kde-format
+msgid ""
+"<qt>Are you sure you want to delete the map <i>%1</i>? <br /><b>There is no "
+"way to undo this.</b></qt>"
+msgstr "<qt> هل إلى حذف خريطة<i></i><br /><b> هناك هو لا إلى تراجع</b></qt>"
+
+#: kimagemapeditor.cpp:2695
+#, fuzzy, kde-format
+msgid "Delete Map?"
+msgstr "احذف الخريطة?"
+
+#: kimagemapeditor.cpp:2743
+#, fuzzy, kde-format
+msgid ""
+"<qt>The file <i>%1</i> has been modified.<br />Do you want to save it?</qt>"
+msgstr "<qt> الـ ملفّ<i></i> معدّل<br /> تنفيذ إلى حفظ الإيطالية</qt>"
+
+#: kimagemapeditor.cpp:2827
+#, fuzzy, kde-format
+msgid "Select image"
+msgstr "التحديد"
+
+#: kimagemapeditor.cpp:2828
+#, kde-format
+msgid ""
+"Images (*.png *.jpg *.jpeg *.gif *.bmp *.xbm *.xpm *.pnm *.mng);;All Files "
+"(*)"
+msgstr ""
+
+#: kimagemapeditor.cpp:2874
+#, fuzzy, kde-format
+msgid "Enter Usemap"
+msgstr "إدخال"
+
+#: kimagemapeditor.cpp:2875
+#, fuzzy, kde-format
+msgid "Enter the usemap value:"
+msgstr "إدخال قيمة:"
+
+#. i18n: ectx: Menu (edit)
+#: kimagemapeditorpartui.rc:14
+#, fuzzy, kde-format
+msgid "&Edit"
+msgstr "&حرّر"
+
+#. i18n: ectx: Menu (view)
+#: kimagemapeditorpartui.rc:31
+#, fuzzy, kde-format
+msgid "&View"
+msgstr "ا&عرض"
+
+#. i18n: ectx: Menu (tools)
+#: kimagemapeditorpartui.rc:40
+#, fuzzy, kde-format
+msgid "&Tools"
+msgstr "أ&دوات"
+
+#. i18n: ectx: Menu (map)
+#: kimagemapeditorpartui.rc:50
+#, fuzzy, kde-format
+msgid "&Map"
+msgstr "الخريطة"
+
+#. i18n: ectx: Menu (settings)
+#: kimagemapeditorpartui.rc:66
+#, fuzzy, kde-format
+msgid "&Settings"
+msgstr "إ&عدادات"
+
+#. i18n: ectx: ToolBar (mainToolBar)
+#: kimagemapeditorpartui.rc:77 kimagemapeditorui.rc:15
+#, fuzzy, kde-format
+msgid "KImageMapEditor Main Toolbar"
+msgstr "KImageMapEditor رئيسي شريط الأدوات"
+
+#. i18n: ectx: ToolBar (kImageMapEditorPartDrawToolBar)
+#: kimagemapeditorpartui.rc:96
+#, fuzzy, kde-format
+msgid "KImageMapEditor Draw Toolbar"
+msgstr "KImageMapEditor رسم شريط الأدوات"
+
+#. i18n: ectx: Menu (file)
+#: kimagemapeditorui.rc:4
+#, fuzzy, kde-format
+msgid "&File"
+msgstr "&ملف"
+
+#: kimearea.cpp:142
+#, kde-format
+msgid "noname"
+msgstr ""
+
+#: kimearea.cpp:1401
+#, fuzzy, kde-format
+msgid "Number of Areas"
+msgstr "الرقم من مساحات"
+
+#: kimearea.h:230 kimedialogs.cpp:361
+#, fuzzy, kde-format
+msgid "Rectangle"
+msgstr "مستطيل"
+
+#: kimearea.h:253 kimedialogs.cpp:362
+#, fuzzy, kde-format
+msgid "Circle"
+msgstr "دائرة"
+
+#: kimearea.h:279 kimedialogs.cpp:363
+#, fuzzy, kde-format
+msgid "Polygon"
+msgstr "مضلّع"
+
+#: kimearea.h:303 kimedialogs.cpp:388
+#, fuzzy, kde-format
+msgid "Default"
+msgstr "افتراضي"
+
+#: kimecommands.cpp:26
+#, fuzzy, kde-format
+msgid "Cut %1"
+msgstr "قص 1"
+
+#: kimecommands.cpp:70
+#, fuzzy, kde-format
+msgid "Delete %1"
+msgstr "حذف %1"
+
+#: kimecommands.cpp:74
+#, fuzzy, kde-format
+msgid "Paste %1"
+msgstr "الصق %1"
+
+#: kimecommands.cpp:113
+#, fuzzy, kde-format
+msgid "Move %1"
+msgstr "حرَك %1"
+
+#: kimecommands.cpp:169
+#, fuzzy, kde-format
+msgid "Resize %1"
+msgstr "غير حجم %1"
+
+#: kimecommands.cpp:210
+#, fuzzy, kde-format
+msgid "Add point to %1"
+msgstr "إضافة نقطة إلى 1"
+
+#: kimecommands.cpp:254
+#, fuzzy, kde-format
+msgid "Remove point from %1"
+msgstr "احذف نقطة من 1"
+
+#: kimecommands.cpp:301
+#, fuzzy, kde-format
+msgid "Create %1"
+msgstr "إنشاء 1"
+
+#: kimedialogs.cpp:76
+#, fuzzy, kde-format
+msgid "Top &X:"
+msgstr "أعلى س:"
+
+#: kimedialogs.cpp:83
+#, fuzzy, kde-format
+msgid "Top &Y:"
+msgstr "أعلى ص:"
+
+#: kimedialogs.cpp:90
+#, fuzzy, kde-format
+msgid "&Width:"
+msgstr "ال&عرض:"
+
+#: kimedialogs.cpp:97
+#, fuzzy, kde-format
+msgid "Hei&ght:"
+msgstr "ارتفا&ع:"
+
+#: kimedialogs.cpp:119
+#, fuzzy, kde-format
+msgid "Center &X:"
+msgstr "وسط س:"
+
+#: kimedialogs.cpp:126
+#, fuzzy, kde-format
+msgid "Center &Y:"
+msgstr "وسط ص:"
+
+#: kimedialogs.cpp:133
+#, fuzzy, kde-format
+msgid "&Radius:"
+msgstr "نصف القطر:"
+
+#: kimedialogs.cpp:166
+#, fuzzy, kde-format
+msgid "Add"
+msgstr "إضافة"
+
+#: kimedialogs.cpp:169
+#, fuzzy, kde-format
+msgid "Remove"
+msgstr "احذف"
+
+#: kimedialogs.cpp:244
+#, fuzzy, kde-format
+msgid "Top &X"
+msgstr "أعلى س"
+
+#: kimedialogs.cpp:252
+#, fuzzy, kde-format
+msgid "Top &Y"
+msgstr "أعلى ص"
+
+#: kimedialogs.cpp:285
+#, fuzzy, kde-format
+msgid "&HREF:"
+msgstr "&HREF:"
+
+#: kimedialogs.cpp:291
+#, fuzzy, kde-format
+msgid "Alt. &Text:"
+msgstr "Al&t نص:"
+
+#: kimedialogs.cpp:294
+#, fuzzy, kde-format
+msgid "Tar&get:"
+msgstr "الهدف:"
+
+#: kimedialogs.cpp:297
+#, fuzzy, kde-format
+msgid "Tit&le:"
+msgstr "العنوان:"
+
+#: kimedialogs.cpp:300 kimedialogs.cpp:537
+#, kde-format
+msgid "On"
+msgstr ""
+
+#: kimedialogs.cpp:304
+#, fuzzy, kde-format
+msgid "Enable default map"
+msgstr "مكّن افتراضي خريطة"
+
+#: kimedialogs.cpp:328
+#, kde-format
+msgid "OnClick:"
+msgstr ""
+
+#: kimedialogs.cpp:329
+#, kde-format
+msgid "OnDblClick:"
+msgstr ""
+
+#: kimedialogs.cpp:330
+#, kde-format
+msgid "OnMouseDown:"
+msgstr ""
+
+#: kimedialogs.cpp:331
+#, kde-format
+msgid "OnMouseUp:"
+msgstr ""
+
+#: kimedialogs.cpp:332
+#, kde-format
+msgid "OnMouseOver:"
+msgstr ""
+
+#: kimedialogs.cpp:333
+#, kde-format
+msgid "OnMouseMove:"
+msgstr ""
+
+#: kimedialogs.cpp:334
+#, kde-format
+msgid "OnMouseOut:"
+msgstr ""
+
+#: kimedialogs.cpp:342
+#, fuzzy, kde-format
+msgid "Area Tag Editor"
+msgstr "مساحة الشّارة المحرر"
+
+#: kimedialogs.cpp:364
+#, fuzzy, kde-format
+msgid "Selection"
+msgstr "التحديد"
+
+#: kimedialogs.cpp:383
+#, fuzzy, kde-format
+msgid "&General"
+msgstr "&عام"
+
+#: kimedialogs.cpp:390
+#, fuzzy, kde-format
+msgid "Coor&dinates"
+msgstr "الأسس"
+
+#: kimedialogs.cpp:392
+#, fuzzy, kde-format
+msgid "&JavaScript"
+msgstr "جافاسكربت"
+
+#: kimedialogs.cpp:436
+#, fuzzy, kde-format
+msgid "Choose File"
+msgstr "اختر ملف"
+
+#: kimedialogs.cpp:436
+#, fuzzy, kde-format
+msgid "All Files (*)"
+msgstr "كل الملفّات"
+
+#: kimedialogs.cpp:505
+#, fuzzy, kde-format
+msgid "Preferences"
+msgstr "تفضيلات"
+
+#: kimedialogs.cpp:519
+#, fuzzy, kde-format
+msgid "&Maximum image preview height:"
+msgstr "الأقصى صورة معاينة الارتفاع:"
+
+#: kimedialogs.cpp:528
+#, fuzzy, kde-format
+msgid "&Undo limit:"
+msgstr "حدّ الترا&جع:"
+
+#: kimedialogs.cpp:535
+#, fuzzy, kde-format
+msgid "&Redo limit:"
+msgstr "تكرار:"
+
+#: kimedialogs.cpp:539
+#, fuzzy, kde-format
+msgid "&Start with last used document"
+msgstr "ابدأ مع الأخير مُستخدَم مستند"
+
+#: kimeshell.cpp:82
+#, kde-format
+msgid "Could not find kimagemapeditorpart part!"
+msgstr ""
+
+#: kimeshell.cpp:95
+#, kde-format
+msgid "Could not create kimagemapeditorpart part!"
+msgstr ""
+
+#: kimeshell.cpp:206
+#, fuzzy, kde-format
+msgid "Choose Picture to Open"
+msgstr "اختر صورة إلى افتح"
+
+#: main.cpp:30
+#, fuzzy, kde-format
+msgid "An HTML imagemap editor"
+msgstr "أداة تعريف HTML خريطة الصورة محرِّر"
+
+#: main.cpp:38
+#, fuzzy, kde-format
+msgid "KImageMapEditor"
+msgstr "KImageMapEditor"
+
+#: main.cpp:40
+#, fuzzy, kde-format
+msgid "(c) 2001-2007 Jan Schaefer"
+msgstr "c يناير شايفر"
+
+#: main.cpp:42
+#, fuzzy, kde-format
+msgid "Jan Schaefer"
+msgstr "يناير شايفر"
+
+#: main.cpp:43
+#, kde-format
+msgid "Joerg Jaspert"
+msgstr ""
+
+#: main.cpp:43
+#, fuzzy, kde-format
+msgid "For helping me with the Makefiles, and creating the Debian package"
+msgstr "لـ مع Makefiles و إنشاء ديبيان حزمة"
+
+#: main.cpp:44
+#, fuzzy, kde-format
+msgid "Aaron Seigo and Michael"
+msgstr "هارون و مايكل"
+
+#: main.cpp:44
+#, fuzzy, kde-format
+msgid "For helping me fixing --enable-final mode"
+msgstr "لـ تمكين نمط"
+
+#: main.cpp:45
+#, fuzzy, kde-format
+msgid "Antonio Crevillen"
+msgstr "أنطونيو"
+
+#: main.cpp:45
+#, fuzzy, kde-format
+msgid "For the Spanish translation"
+msgstr "لـ اسباني"
+
+#: main.cpp:46
+#, kde-format
+msgid "Fabrice Mous"
+msgstr ""
+
+#: main.cpp:46
+#, fuzzy, kde-format
+msgid "For the Dutch translation"
+msgstr "لـ الهولندية"
+
+#: main.cpp:47
+#, kde-format
+msgid "Germain Chazot"
+msgstr ""
+
+#: main.cpp:47
+#, fuzzy, kde-format
+msgid "For the French translation"
+msgstr "لـ فرنسي"
+
+#: main.cpp:60
+#, fuzzy, kde-format
+msgid "Write HTML-Code to stdout on exit"
+msgstr "اكتب HTML الرّمز إلى يعمل خروج"
+
+#: main.cpp:61
+#, fuzzy, kde-format
+msgid "File to open"
+msgstr "الملف المراد فتحه"
+
+#, fuzzy
+#~ msgid "Copyright 2001-2003 Jan Schäfer <janschaefer@users.sourceforge.net>"
+#~ msgstr "c يناير&auml;<email>janschaefer@users.sourceforge.net</email>"
+
+#, fuzzy
+#~ msgid ""
+#~ "<qt>The file <em>%1</em> already exists.<br />Do you want to overwrite it?"
+#~ "</qt>"
+#~ msgstr ""
+#~ "<qt> الـ ملفّ<em></em> موجود<br /> تنفيذ إلى كتابة فوقية :: كتابة على "
+#~ "الإيطالية</qt>"
+
+#, fuzzy
+#~ msgid "Overwrite File?"
+#~ msgstr "الكتابة فوق الملف ؟"
+
+#, fuzzy
+#~ msgid "Overwrite"
+#~ msgstr "الكتابة فوقه"
+
+#, fuzzy
+#~ msgid "<qt>You do not have write permission for the file <em>%1</em>.</qt>"
+#~ msgstr "<qt> أنت ليس كتابة إذن لـ ملفّ<em></em></qt>"
+
+#, fuzzy
+#~ msgid "HTML File"
+#~ msgstr "HTML ملف"
+
+#, fuzzy
+#~ msgid "Text File"
+#~ msgstr "ملف نصي"
+
+#, fuzzy
+#~ msgid "Web Files"
+#~ msgstr "ويب ملفات"
+
+#, fuzzy
+#~ msgid "HTML Files"
+#~ msgstr "ملفّات HTML"
+
+#, fuzzy
+#~ msgid "PNG Images"
+#~ msgstr "PNG صور"
+
+#, fuzzy
+#~ msgid "JPEG Images"
+#~ msgstr "JPEG صور"
+
+#, fuzzy
+#~ msgid "GIF Images"
+#~ msgstr "GIF صور"
